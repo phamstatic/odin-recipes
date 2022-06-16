@@ -7,4 +7,4 @@ I wrote these files by hand without any help.
 
 The recipe book contains 3 recipes: { 'Mushroom Pasta', 'Spaghetti', 'Cream Cheese Pasta' }.
 
-It is a very bland project admittedly, but it is nonetheless the start of my journey in web design.
+It is a very bland project admittedly, but it is nonetheless the start of my journey in Full Stack Development.
